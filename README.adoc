@@ -6,8 +6,8 @@ JasperReport template to create similar and consistent report layouts.
 
 == Requirements
 
-- OpenNMS Horizon 16 or OpenNMS Meridian
-- JasperStudio 5.6.1final
+- OpenNMS Horizon 17
+- JasperStudio 6.1.1
 
 == Installation
 
